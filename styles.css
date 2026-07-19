@@ -1,5 +1,5 @@
 :root {
-  --paper: #f2efe8;
+  --paper: #FDF1F3;
   --ink: #20231f;
   --muted: #686b63;
   --line: rgba(32, 35, 31, 0.2);
@@ -9,7 +9,7 @@
   --mono: "DM Mono", monospace;
   --display: "Syne", sans-serif;
   --header-height: 92px;
-   --paper-accent:#FCEEF2;
+   --paper-accent:#DFA6B8;
 }
 
 * {
