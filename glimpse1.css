@@ -46,5 +46,7 @@ h5{
 .card-container{
     display:flex;
     flex-direction:column;
-    background-color:dimgrey;
+    margin:auto;
+    width:fit-content;
+    height: max-content;
 }
